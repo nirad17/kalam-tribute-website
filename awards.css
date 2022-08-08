@@ -1,0 +1,16 @@
+.t1 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+table {
+    border: solid 3px #FF7722;
+    text-align: center;
+    border-collapse: collapse;
+}
+th,td {
+    border: solid 1px black;
+    padding: 10px;
+    font-size: x-large;
+}

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Revalia&display=swap');
+
+
+.p1 {
+    border: none;
+}
+
+#quote-marks {
+    z-index: -1;
+    position: absolute;
+    font-size: 300px;
+    font-family: 'Revalia', cursive;
+    margin: 0;
+    padding: 0;
+    opacity: 40%;
+    /* color: rgb(0, 0, 0); */
+}
+
+.quote-marks-1 {
+    top: 12vh;
+    right: 20vw;
+    color: rgba(17, 0, 255, 0.498);
+}
+
+.quote-marks-2 {
+    top: 39vh;
+    right: 29vw;
+    color: rgba(0, 255, 98, 0.498);
+}
+.quote-marks-3 {
+    top: 58vh;
+    left: 18vw;
+    color: rgba(255, 0, 60, 0.498);
+}
+.quote-marks-4 {
+    top: 80vh;
+    left: 30vw;
+    color: rgba(52, 52, 52, 0.498);
+}
+
+.quote {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+}

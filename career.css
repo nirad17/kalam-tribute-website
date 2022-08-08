@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.home {
+    display: flex;
+}
+.container {
+    padding-inline: 2em;
+
+}
+.side{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    border: solid 2px black;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+.imgs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    padding: 10px;
+    padding-block: 20px;
+    width: 200px;
+}
+.container p {
+    font-size: 20px;
+    text-align: justify;
+}
+.container-1 {
+    padding-left: 0;
+}

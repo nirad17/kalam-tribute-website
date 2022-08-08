@@ -1,0 +1,38 @@
+.p1 {
+    text-align: justify;
+    padding-inline: 10rem;
+    margin-inline: 10rem;
+    border: dotted 3px #FFC300;
+    margin-block: 2rem;
+}
+.book img{
+    width: 10%;
+}
+.book{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    padding: 20px;  
+}
+.book-info {
+    padding-left: 2rem;
+}
+.book-info h2 {
+    color: #FFC300;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.book-info p {
+    color: grey;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+hr {
+    color: gray;
+    background-color: gray;
+    border-width: 0;
+    height: 1.5px;
+    /* width: 70%; */
+    opacity: 45%;
+}
